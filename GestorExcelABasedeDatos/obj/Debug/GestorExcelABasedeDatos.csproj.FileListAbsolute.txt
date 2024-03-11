@@ -1,0 +1,17 @@
+C:\Users\nicoo\OneDrive\Desktop\Importar desde Excel\GestorExcelABasedeDatos\bin\Debug\GestorExcelABasedeDatos.exe.config
+C:\Users\nicoo\OneDrive\Desktop\Importar desde Excel\GestorExcelABasedeDatos\bin\Debug\GestorExcelABasedeDatos.exe
+C:\Users\nicoo\OneDrive\Desktop\Importar desde Excel\GestorExcelABasedeDatos\bin\Debug\GestorExcelABasedeDatos.pdb
+C:\Users\nicoo\OneDrive\Desktop\Importar desde Excel\GestorExcelABasedeDatos\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\nicoo\OneDrive\Desktop\Importar desde Excel\GestorExcelABasedeDatos\bin\Debug\ExcelDataReader.dll
+C:\Users\nicoo\OneDrive\Desktop\Importar desde Excel\GestorExcelABasedeDatos\bin\Debug\ExcelDataReader.pdb
+C:\Users\nicoo\OneDrive\Desktop\Importar desde Excel\GestorExcelABasedeDatos\bin\Debug\ExcelDataReader.xml
+C:\Users\nicoo\OneDrive\Desktop\Importar desde Excel\GestorExcelABasedeDatos\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\nicoo\OneDrive\Desktop\Importar desde Excel\GestorExcelABasedeDatos\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\nicoo\OneDrive\Desktop\Importar desde Excel\GestorExcelABasedeDatos\obj\Debug\GestorExcelABasedeDatos.csproj.AssemblyReference.cache
+C:\Users\nicoo\OneDrive\Desktop\Importar desde Excel\GestorExcelABasedeDatos\obj\Debug\GestorExcelABasedeDatos.Form1.resources
+C:\Users\nicoo\OneDrive\Desktop\Importar desde Excel\GestorExcelABasedeDatos\obj\Debug\GestorExcelABasedeDatos.Properties.Resources.resources
+C:\Users\nicoo\OneDrive\Desktop\Importar desde Excel\GestorExcelABasedeDatos\obj\Debug\GestorExcelABasedeDatos.csproj.GenerateResource.cache
+C:\Users\nicoo\OneDrive\Desktop\Importar desde Excel\GestorExcelABasedeDatos\obj\Debug\GestorExcelABasedeDatos.csproj.CoreCompileInputs.cache
+C:\Users\nicoo\OneDrive\Desktop\Importar desde Excel\GestorExcelABasedeDatos\obj\Debug\GestorExcelABasedeDatos.csproj.CopyComplete
+C:\Users\nicoo\OneDrive\Desktop\Importar desde Excel\GestorExcelABasedeDatos\obj\Debug\GestorExcelABasedeDatos.exe
+C:\Users\nicoo\OneDrive\Desktop\Importar desde Excel\GestorExcelABasedeDatos\obj\Debug\GestorExcelABasedeDatos.pdb
